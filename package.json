@@ -17,7 +17,6 @@
         "@react-navigation/stack": "^5.9.0",
         "@ui-kitten/components": "^5.0.0",
         "@ui-kitten/eva-icons": "^5.0.0",
-        "add": "^2.0.6",
         "expo": "~38.0.8",
         "expo-status-bar": "^1.0.2",
         "lodash-es": "^4.17.15",
